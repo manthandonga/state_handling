@@ -10,7 +10,7 @@ class DBHleper {
 
   Database? db;
 
-  final String dbname = "bhumit.db";
+  final String dbname = "MD.db";
   final String TableName = "product";
   final String colId = "id";
   final String colname = "name";
